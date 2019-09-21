@@ -1,2 +1,6 @@
 My 1st commit 
-making  change in central to demonstrate merge
+<<<<<<< HEAD
+making  change in central to demonstrate merge conflict
+=======
+making  change in central to demonstrate merge conflict
+>>>>>>> 33e0e3a017d512a3f099d02d1405a5bfd4e62a54
